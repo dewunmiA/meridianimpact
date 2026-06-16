@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 170" fill="none" font-family="&#39;DM Sans&#39;, Arial, sans-serif">
+
+  
+  <g transform="translate(60 18)" fill="#E8522F">
+    
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(-7   0) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate( 7   0) rotate(45)"></rect>
+    
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(-21 13) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(  0 13) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate( 21 13) rotate(45)"></rect>
+    
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(-31 26) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(-10 26) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate( 10 26) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate( 31 26) rotate(45)"></rect>
+    
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(-31 39) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(-10 39) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate( 10 39) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate( 31 39) rotate(45)"></rect>
+    
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(-21 52) rotate(45)"></rect>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate( 21 52) rotate(45)"></rect>
+    
+    <rect x="-2.5" y="8" width="5" height="92" rx="0.6"></rect>
+    <rect x="-8" y="98" width="16" height="5" rx="0.6"></rect>
+  </g>
+
+  
+  <line x1="148" y1="22" x2="148" y2="118" stroke="#1A1A2E" stroke-width="1.5"></line>
+
+  
+  <g fill="#1A1A2E" font-weight="800" font-size="30" letter-spacing="1" font-family="&#39;DM Sans&#39;, Arial Black, sans-serif">
+    <text x="172" y="46">MERIDIAN</text>
+    <text x="172" y="78">IMPACT</text>
+    <text x="172" y="110">GROUP</text>
+  </g>
+
+  <text x="172" y="138" fill="#E8522F" font-size="14" font-weight="500" letter-spacing="0.3" font-family="&#39;DM Sans&#39;, Arial, sans-serif">Creating Value | Sustaining Impact.</text>
+</svg>
